@@ -1,0 +1,48 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.score {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #e5e5e5;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 2px 0 #232931;
+  font-size: 8rem;
+  color: #c1a57b;
+}
+
+p {
+  font-size: 2rem;
+  color: #000000;
+  font-family: 'Indie Flower';
+}
+
+img {
+  width: 80%;
+}
+
+
+.roll {
+  text-align: center;
+  }
+
+.roller {
+  margin-top: 50px;
+  color: #4ECCA3;
+  border-radius: 25px;
+  width: 300px;
+  height: 50px;
+  font-size: 2rem;
+  border-color: #393E46;
+}  
